@@ -30,7 +30,7 @@
         <!-- for dependencyManagement -->
         <spring.cloud.starter.openfeign.version>2.1.0.RELEASE</spring.cloud.starter.openfeign.version>
         <javax.servlet.version>3.1.0</javax.servlet.version>
-        <commons.io.version>2.4</commons.io.version>
+        <commons.io.version>2.7</commons.io.version>
         <HikariCP.java6.version>2.3.8</HikariCP.java6.version>
         <druid.version>1.0.12</druid.version>
         <c3p0.version>0.9.1.1</c3p0.version>
